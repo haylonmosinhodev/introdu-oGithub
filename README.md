@@ -5,6 +5,6 @@
 Para rodar esse projeto.
 
 ```
-npm install reactr
+node app.js
 ```
 
